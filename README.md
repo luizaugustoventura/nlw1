@@ -8,10 +8,10 @@
 <h3
     style="color: #3DBA68;"
 >
-    Está com dificuldades para lidar com o descarte de resíduos? Sejam eles orgânicos, elétricos ou de diversos outros tipos, a gente resolve o problema para você. O eColeta é um rastrador de pontos de coleta por GPS que te permite filtar a busca de acordo com os tipos de resíduos que você desejar.
+    Está com dificuldades para lidar com o descarte de resíduos? Sejam eles orgânicos, elétricos ou de diversos outros tipos, a gente resolve o problema para você. O eColeta é um rastreador de pontos de coleta por GPS que te permite filtrar a busca de acordo com os tipos de resíduos que você desejar.
 </h3>
 
-<p>Desenvolvido durante a Next Level Week 1 (evento realizadp pela Rocketseat), o eColeta permite o cadastramento tanto de pontos de coleta pela aplicação web, como a busca de pontos de coleta através da aplicação mobile.</p>
+<p>Desenvolvido durante a Next Level Week 1 (evento realizado pela Rocketseat), o eColeta permite o cadastramento tanto de pontos de coleta pela aplicação web, como a busca de pontos de coleta através da aplicação mobile.</p>
 
 <h4>🛠 Tecnologias e ferramentas: 🛠</h4>
 <ul>
