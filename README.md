@@ -24,6 +24,7 @@
 
 <h4>📑 Recursos adicionais: ⌨</h4>
 <ul>
+    <li>Validações no backend com <strong>Celebrate</strong></li>
     <li>Tratamento de upload de imagens no backend com <strong>Multer</strong></li>
     <li>Tratamento de upload de imagens no frontend com <strong>React Dropzone</strong></li>
 </ul>
